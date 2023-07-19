@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="images/fourth_try/1.jpg" />
+<img src="images/fourth_try/1.jpg"  height="800" width="400"/>
 <img src="images/fourth_try/2.jpg" />
 <img src="images/fourth_try/matching.jpg" />
 <img src="images/fourth_try/panorama.jpg" />
